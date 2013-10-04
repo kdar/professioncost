@@ -5,7 +5,7 @@ Determines how much a WoW profession would cost if you bought everything from th
 
 ### Download
 
-[ProfessionCost.exe](https://raw.github.com/kdar/professioncost/master/professioncost.exe)
+[ProfessionCost.zip](https://raw.github.com/kdar/professioncost/master/professioncost.zip)
 
 ### Usage
 
