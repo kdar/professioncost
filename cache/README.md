@@ -1,0 +1,1 @@
+This cache directory caches HTML files from wowprofessions.com. These files contain reagent lists per profession.

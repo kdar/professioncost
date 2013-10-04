@@ -1,0 +1,1026 @@
+US-A-Aegwynn
+US-H-Aegwynn
+US-A-Aerie Peak
+US-H-Aerie Peak
+US-A-Agamaggan
+US-H-Agamaggan
+US-A-Aggramar
+US-H-Aggramar
+US-A-Akama
+US-H-Akama
+US-A-Alexstrasza
+US-H-Alexstrasza
+US-A-Alleria
+US-H-Alleria
+US-A-Altar of Storms
+US-H-Altar of Storms
+US-A-Alterac Mountains
+US-H-Alterac Mountains
+US-A-Aman'thul
+US-H-Aman'thul
+US-A-Andorhal
+US-H-Andorhal
+US-A-Anetheron
+US-H-Anetheron
+US-A-Antonidas
+US-H-Antonidas
+US-A-Anub'arak
+US-H-Anub'arak
+US-A-Anvilmar
+US-H-Anvilmar
+US-A-Arathor
+US-H-Arathor
+US-A-Archimonde
+US-H-Archimonde
+US-A-Area 52
+US-H-Area 52
+US-A-Argent Dawn
+US-H-Argent Dawn
+US-A-Arthas
+US-H-Arthas
+US-A-Arygos
+US-H-Arygos
+US-A-Auchindoun
+US-H-Auchindoun
+US-A-Azgalor
+US-H-Azgalor
+US-A-Azjol-Nerub
+US-H-Azjol-Nerub
+US-A-Azralon
+US-H-Azralon
+US-A-Azshara
+US-H-Azshara
+US-A-Azuremyst
+US-H-Azuremyst
+US-A-Baelgun
+US-H-Baelgun
+US-A-Balnazzar
+US-H-Balnazzar
+US-A-Barthilas
+US-H-Barthilas
+US-A-Black Dragonflight
+US-H-Black Dragonflight
+US-A-Blackhand
+US-H-Blackhand
+US-A-Blackrock
+US-H-Blackrock
+US-A-Blackwater Raiders
+US-H-Blackwater Raiders
+US-A-Blackwing Lair
+US-H-Blackwing Lair
+US-A-Blade's Edge
+US-H-Blade's Edge
+US-A-Bladefist
+US-H-Bladefist
+US-A-Bleeding Hollow
+US-H-Bleeding Hollow
+US-A-Blood Furnace
+US-H-Blood Furnace
+US-A-Bloodhoof
+US-H-Bloodhoof
+US-A-Bloodscalp
+US-H-Bloodscalp
+US-A-Bonechewer
+US-H-Bonechewer
+US-A-Borean Tundra
+US-H-Borean Tundra
+US-A-Boulderfist
+US-H-Boulderfist
+US-A-Bronzebeard
+US-H-Bronzebeard
+US-A-Burning Blade
+US-H-Burning Blade
+US-A-Burning Legion
+US-H-Burning Legion
+US-A-Caelestrasz
+US-H-Caelestrasz
+US-A-Cairne
+US-H-Cairne
+US-A-Cenarion Circle
+US-H-Cenarion Circle
+US-A-Cenarius
+US-H-Cenarius
+US-A-Cho'gall
+US-H-Cho'gall
+US-A-Chromaggus
+US-H-Chromaggus
+US-A-Coilfang
+US-H-Coilfang
+US-A-Crushridge
+US-H-Crushridge
+US-A-Daggerspine
+US-H-Daggerspine
+US-A-Dalaran
+US-H-Dalaran
+US-A-Dalvengyr
+US-H-Dalvengyr
+US-A-Dark Iron
+US-H-Dark Iron
+US-A-Darkspear
+US-H-Darkspear
+US-A-Darrowmere
+US-H-Darrowmere
+US-A-Dath'Remar
+US-H-Dath'Remar
+US-A-Dawnbringer
+US-H-Dawnbringer
+US-A-Deathwing
+US-H-Deathwing
+US-A-Demon Soul
+US-H-Demon Soul
+US-A-Dentarg
+US-H-Dentarg
+US-A-Destromath
+US-H-Destromath
+US-A-Dethecus
+US-H-Dethecus
+US-A-Detheroc
+US-H-Detheroc
+US-A-Doomhammer
+US-H-Doomhammer
+US-A-Draenor
+US-H-Draenor
+US-A-Dragonblight
+US-H-Dragonblight
+US-A-Dragonmaw
+US-H-Dragonmaw
+US-A-Drak'Tharon
+US-H-Drak'Tharon
+US-A-Drak'thul
+US-H-Drak'thul
+US-A-Draka
+US-H-Draka
+US-A-Drakkari
+US-H-Drakkari
+US-A-Dreadmaul
+US-H-Dreadmaul
+US-A-Drenden
+US-H-Drenden
+US-A-Dunemaul
+US-H-Dunemaul
+US-A-Durotan
+US-H-Durotan
+US-A-Duskwood
+US-H-Duskwood
+US-A-Earthen Ring
+US-H-Earthen Ring
+US-A-Echo Isles
+US-H-Echo Isles
+US-A-Eitrigg
+US-H-Eitrigg
+US-A-Eldre'Thalas
+US-H-Eldre'Thalas
+US-A-Elune
+US-H-Elune
+US-A-Emerald Dream
+US-H-Emerald Dream
+US-A-Eonar
+US-H-Eonar
+US-A-Eredar
+US-H-Eredar
+US-A-Executus
+US-H-Executus
+US-A-Exodar
+US-H-Exodar
+US-A-Farstriders
+US-H-Farstriders
+US-A-Feathermoon
+US-H-Feathermoon
+US-A-Fenris
+US-H-Fenris
+US-A-Firetree
+US-H-Firetree
+US-A-Fizzcrank
+US-H-Fizzcrank
+US-A-Frostmane
+US-H-Frostmane
+US-A-Frostmourne
+US-H-Frostmourne
+US-A-Frostwolf
+US-H-Frostwolf
+US-A-Galakrond
+US-H-Galakrond
+US-A-Gallywix
+US-H-Gallywix
+US-A-Garithos
+US-H-Garithos
+US-A-Garona
+US-H-Garona
+US-A-Garrosh
+US-H-Garrosh
+US-A-Ghostlands
+US-H-Ghostlands
+US-A-Gilneas
+US-H-Gilneas
+US-A-Gnomeregan
+US-H-Gnomeregan
+US-A-Goldrinn
+US-H-Goldrinn
+US-A-Gorefiend
+US-H-Gorefiend
+US-A-Gorgonnash
+US-H-Gorgonnash
+US-A-Greymane
+US-H-Greymane
+US-A-Grizzly Hills
+US-H-Grizzly Hills
+US-A-Gul'dan
+US-H-Gul'dan
+US-A-Gundrak
+US-H-Gundrak
+US-A-Gurubashi
+US-H-Gurubashi
+US-A-Hakkar
+US-H-Hakkar
+US-A-Haomarush
+US-H-Haomarush
+US-A-Hellscream
+US-H-Hellscream
+US-A-Hydraxis
+US-H-Hydraxis
+US-A-Hyjal
+US-H-Hyjal
+US-A-Icecrown
+US-H-Icecrown
+US-A-Illidan
+US-H-Illidan
+US-A-Jaedenar
+US-H-Jaedenar
+US-A-Jubei'Thos
+US-H-Jubei'Thos
+US-A-Kael'Thas
+US-H-Kael'Thas
+US-A-Kalecgos
+US-H-Kalecgos
+US-A-Kargath
+US-H-Kargath
+US-A-Kel'Thuzad
+US-H-Kel'Thuzad
+US-A-Khadgar
+US-H-Khadgar
+US-A-Khaz Modan
+US-H-Khaz Modan
+US-A-Khaz'goroth
+US-H-Khaz'goroth
+US-A-Kil'Jaeden
+US-H-Kil'Jaeden
+US-A-Kilrogg
+US-H-Kilrogg
+US-A-Kirin Tor
+US-H-Kirin Tor
+US-A-Korgath
+US-H-Korgath
+US-A-Korialstrasz
+US-H-Korialstrasz
+US-A-Kul Tiras
+US-H-Kul Tiras
+US-A-Laughing Skull
+US-H-Laughing Skull
+US-A-Lethon
+US-H-Lethon
+US-A-Lightbringer
+US-H-Lightbringer
+US-A-Lightning's Blade
+US-H-Lightning's Blade
+US-A-Lightninghoof
+US-H-Lightninghoof
+US-A-Llane
+US-H-Llane
+US-A-Lothar
+US-H-Lothar
+US-A-Madoran
+US-H-Madoran
+US-A-Maelstrom
+US-H-Maelstrom
+US-A-Magtheridon
+US-H-Magtheridon
+US-A-Maiev
+US-H-Maiev
+US-A-Mal'Ganis
+US-H-Mal'Ganis
+US-A-Malfurion
+US-H-Malfurion
+US-A-Malorne
+US-H-Malorne
+US-A-Malygos
+US-H-Malygos
+US-A-Mannoroth
+US-H-Mannoroth
+US-A-Medivh
+US-H-Medivh
+US-A-Misha
+US-H-Misha
+US-A-Mok'Nathal
+US-H-Mok'Nathal
+US-A-Moon Guard
+US-H-Moon Guard
+US-A-Moonrunner
+US-H-Moonrunner
+US-A-Mug'thol
+US-H-Mug'thol
+US-A-Muradin
+US-H-Muradin
+US-A-Nagrand
+US-H-Nagrand
+US-A-Nathrezim
+US-H-Nathrezim
+US-A-Nazgrel
+US-H-Nazgrel
+US-A-Nazjatar
+US-H-Nazjatar
+US-A-Nemesis
+US-H-Nemesis
+US-A-Ner'zhul
+US-H-Ner'zhul
+US-A-Nesingwary
+US-H-Nesingwary
+US-A-Nordrassil
+US-H-Nordrassil
+US-A-Norgannon
+US-H-Norgannon
+US-A-Onyxia
+US-H-Onyxia
+US-A-Perenolde
+US-H-Perenolde
+US-A-Proudmoore
+US-H-Proudmoore
+US-A-Quel'dorei
+US-H-Quel'dorei
+US-A-Quel'Thalas
+US-H-Quel'Thalas
+US-A-Ragnaros
+US-H-Ragnaros
+US-A-Ravencrest
+US-H-Ravencrest
+US-A-Ravenholdt
+US-H-Ravenholdt
+US-A-Rexxar
+US-H-Rexxar
+US-A-Rivendare
+US-H-Rivendare
+US-A-Runetotem
+US-H-Runetotem
+US-A-Sargeras
+US-H-Sargeras
+US-A-Saurfang
+US-H-Saurfang
+US-A-Scarlet Crusade
+US-H-Scarlet Crusade
+US-A-Scilla
+US-H-Scilla
+US-A-Sen'jin
+US-H-Sen'jin
+US-A-Sentinels
+US-H-Sentinels
+US-A-Shadow Council
+US-H-Shadow Council
+US-A-Shadowmoon
+US-H-Shadowmoon
+US-A-Shadowsong
+US-H-Shadowsong
+US-A-Shandris
+US-H-Shandris
+US-A-Shattered Halls
+US-H-Shattered Halls
+US-A-Shattered Hand
+US-H-Shattered Hand
+US-A-Shu'halo
+US-H-Shu'halo
+US-A-Silver Hand
+US-H-Silver Hand
+US-A-Silvermoon
+US-H-Silvermoon
+US-A-Sisters of Elune
+US-H-Sisters of Elune
+US-A-Skullcrusher
+US-H-Skullcrusher
+US-A-Skywall
+US-H-Skywall
+US-A-Smolderthorn
+US-H-Smolderthorn
+US-A-Spinebreaker
+US-H-Spinebreaker
+US-A-Spirestone
+US-H-Spirestone
+US-A-Staghelm
+US-H-Staghelm
+US-A-Steamwheedle Cartel
+US-H-Steamwheedle Cartel
+US-A-Stonemaul
+US-H-Stonemaul
+US-A-Stormrage
+US-H-Stormrage
+US-A-Stormreaver
+US-H-Stormreaver
+US-A-Stormscale
+US-H-Stormscale
+US-A-Suramar
+US-H-Suramar
+US-A-Tanaris
+US-H-Tanaris
+US-A-Terenas
+US-H-Terenas
+US-A-Terokkar
+US-H-Terokkar
+US-A-Thaurissan
+US-H-Thaurissan
+US-A-The Forgotten Coast
+US-H-The Forgotten Coast
+US-A-The Scryers
+US-H-The Scryers
+US-A-The Underbog
+US-H-The Underbog
+US-A-The Venture Co
+US-H-The Venture Co
+US-A-Thorium Brotherhood
+US-H-Thorium Brotherhood
+US-A-Thrall
+US-H-Thrall
+US-A-Thunderhorn
+US-H-Thunderhorn
+US-A-Thunderlord
+US-H-Thunderlord
+US-A-Tichondrius
+US-H-Tichondrius
+US-A-Tol Barad
+US-H-Tol Barad
+US-A-Tortheldrin
+US-H-Tortheldrin
+US-A-Trollbane
+US-H-Trollbane
+US-A-Turalyon
+US-H-Turalyon
+US-A-Twisting Nether
+US-H-Twisting Nether
+US-A-Uldaman
+US-H-Uldaman
+US-A-Uldum
+US-H-Uldum
+US-A-Undermine
+US-H-Undermine
+US-A-Ursin
+US-H-Ursin
+US-A-Uther
+US-H-Uther
+US-A-Vashj
+US-H-Vashj
+US-A-Vek'nilash
+US-H-Vek'nilash
+US-A-Velen
+US-H-Velen
+US-A-Warsong
+US-H-Warsong
+US-A-Whisperwind
+US-H-Whisperwind
+US-A-Wildhammer
+US-H-Wildhammer
+US-A-Windrunner
+US-H-Windrunner
+US-A-Winterhoof
+US-H-Winterhoof
+US-A-Wyrmrest Accord
+US-H-Wyrmrest Accord
+US-A-Ysera
+US-H-Ysera
+US-A-Ysondre
+US-H-Ysondre
+US-A-Zangarmarsh
+US-H-Zangarmarsh
+US-A-Zul'jin
+US-H-Zul'jin
+US-A-Zuluhed
+US-H-Zuluhed
+EU-A-Aegwynn
+EU-H-Aegwynn
+EU-A-Aerie Peak
+EU-H-Aerie Peak
+EU-A-Agamaggan
+EU-H-Agamaggan
+EU-A-Aggra (Português)
+EU-H-Aggra (Português)
+EU-A-Aggramar
+EU-H-Aggramar
+EU-A-Ahn'Qiraj
+EU-H-Ahn'Qiraj
+EU-A-Al'Akir
+EU-H-Al'Akir
+EU-A-Alexstrasza
+EU-H-Alexstrasza
+EU-A-Alleria
+EU-H-Alleria
+EU-A-Alonsus
+EU-H-Alonsus
+EU-A-Aman'Thul
+EU-H-Aman'Thul
+EU-A-Ambossar
+EU-H-Ambossar
+EU-A-Anachronos
+EU-H-Anachronos
+EU-A-Anetheron
+EU-H-Anetheron
+EU-A-Antonidas
+EU-H-Antonidas
+EU-A-Anub'arak
+EU-H-Anub'arak
+EU-A-Arak-arahm
+EU-H-Arak-arahm
+EU-A-Arathi
+EU-H-Arathi
+EU-A-Arathor
+EU-H-Arathor
+EU-A-Archimonde
+EU-H-Archimonde
+EU-A-Area 52
+EU-H-Area 52
+EU-A-Argent Dawn
+EU-H-Argent Dawn
+EU-A-Arthas
+EU-H-Arthas
+EU-A-Arygos
+EU-H-Arygos
+EU-A-Ashenvale
+EU-H-Ashenvale
+EU-A-Aszune
+EU-H-Aszune
+EU-A-Auchindoun
+EU-H-Auchindoun
+EU-A-Azjol-Nerub
+EU-H-Azjol-Nerub
+EU-A-Azshara
+EU-H-Azshara
+EU-A-Azuregos
+EU-H-Azuregos
+EU-A-Azuremyst
+EU-H-Azuremyst
+EU-A-Baelgun
+EU-H-Baelgun
+EU-A-Balnazzar
+EU-H-Balnazzar
+EU-A-Blackhand
+EU-H-Blackhand
+EU-A-Blackmoore
+EU-H-Blackmoore
+EU-A-Blackrock
+EU-H-Blackrock
+EU-A-Blackscar
+EU-H-Blackscar
+EU-A-Blade's Edge
+EU-H-Blade's Edge
+EU-A-Bladefist
+EU-H-Bladefist
+EU-A-Bloodfeather
+EU-H-Bloodfeather
+EU-A-Bloodhoof
+EU-H-Bloodhoof
+EU-A-Bloodscalp
+EU-H-Bloodscalp
+EU-A-Blutkessel
+EU-H-Blutkessel
+EU-A-Booty Bay
+EU-H-Booty Bay
+EU-A-Borean Tundra
+EU-H-Borean Tundra
+EU-A-Boulderfist
+EU-H-Boulderfist
+EU-A-Bronze Dragonflight
+EU-H-Bronze Dragonflight
+EU-A-Bronzebeard
+EU-H-Bronzebeard
+EU-A-Burning Blade
+EU-H-Burning Blade
+EU-A-Burning Legion
+EU-H-Burning Legion
+EU-A-Burning Steppes
+EU-H-Burning Steppes
+EU-A-C'Thun
+EU-H-C'Thun
+EU-A-Chamber of Aspects
+EU-H-Chamber of Aspects
+EU-A-Chants éternels
+EU-H-Chants éternels
+EU-A-Cho'gall
+EU-H-Cho'gall
+EU-A-Chromaggus
+EU-H-Chromaggus
+EU-A-Colinas Pardas
+EU-H-Colinas Pardas
+EU-A-Confrérie du Thorium
+EU-H-Confrérie du Thorium
+EU-A-Conseil des Ombres
+EU-H-Conseil des Ombres
+EU-A-Crushridge
+EU-H-Crushridge
+EU-A-Culte de la Rive noire
+EU-H-Culte de la Rive noire
+EU-A-Daggerspine
+EU-H-Daggerspine
+EU-A-Dalaran
+EU-H-Dalaran
+EU-A-Dalvengyr
+EU-H-Dalvengyr
+EU-A-Darkmoon Faire
+EU-H-Darkmoon Faire
+EU-A-Darksorrow
+EU-H-Darksorrow
+EU-A-Darkspear
+EU-H-Darkspear
+EU-A-Das Konsortium
+EU-H-Das Konsortium
+EU-A-Das Syndikat
+EU-H-Das Syndikat
+EU-A-Deathguard
+EU-H-Deathguard
+EU-A-Deathweaver
+EU-H-Deathweaver
+EU-A-Deathwing
+EU-H-Deathwing
+EU-A-Deepholm
+EU-H-Deepholm
+EU-A-Defias Brotherhood
+EU-H-Defias Brotherhood
+EU-A-Dentarg
+EU-H-Dentarg
+EU-A-Der abyssische Rat
+EU-H-Der abyssische Rat
+EU-A-Der Mithrilorden
+EU-H-Der Mithrilorden
+EU-A-Der Rat von Dalaran
+EU-H-Der Rat von Dalaran
+EU-A-Destromath
+EU-H-Destromath
+EU-A-Dethecus
+EU-H-Dethecus
+EU-A-Die Aldor
+EU-H-Die Aldor
+EU-A-Die Arguswacht
+EU-H-Die Arguswacht
+EU-A-Die ewige Wacht
+EU-H-Die ewige Wacht
+EU-A-Die Nachtwache
+EU-H-Die Nachtwache
+EU-A-Die Silberne Hand
+EU-H-Die Silberne Hand
+EU-A-Die Todeskrallen
+EU-H-Die Todeskrallen
+EU-A-Doomhammer
+EU-H-Doomhammer
+EU-A-Draenor
+EU-H-Draenor
+EU-A-Dragonblight
+EU-H-Dragonblight
+EU-A-Dragonmaw
+EU-H-Dragonmaw
+EU-A-Drak'thul
+EU-H-Drak'thul
+EU-A-Drek'Thar
+EU-H-Drek'Thar
+EU-A-Dun Modr
+EU-H-Dun Modr
+EU-A-Dun Morogh
+EU-H-Dun Morogh
+EU-A-Dunemaul
+EU-H-Dunemaul
+EU-A-Durotan
+EU-H-Durotan
+EU-A-Earthen Ring
+EU-H-Earthen Ring
+EU-A-Echsenkessel
+EU-H-Echsenkessel
+EU-A-Eitrigg
+EU-H-Eitrigg
+EU-A-Eldre'Thalas
+EU-H-Eldre'Thalas
+EU-A-Elune
+EU-H-Elune
+EU-A-Emerald Dream
+EU-H-Emerald Dream
+EU-A-Emeriss
+EU-H-Emeriss
+EU-A-Eonar
+EU-H-Eonar
+EU-A-Eredar
+EU-H-Eredar
+EU-A-Eversong
+EU-H-Eversong
+EU-A-Executus
+EU-H-Executus
+EU-A-Exodar
+EU-H-Exodar
+EU-A-Festung der Stürme
+EU-H-Festung der Stürme
+EU-A-Fordragon
+EU-H-Fordragon
+EU-A-Forscherliga
+EU-H-Forscherliga
+EU-A-Frostmane
+EU-H-Frostmane
+EU-A-Frostmourne
+EU-H-Frostmourne
+EU-A-Frostwhisper
+EU-H-Frostwhisper
+EU-A-Frostwolf
+EU-H-Frostwolf
+EU-A-Galakrond
+EU-H-Galakrond
+EU-A-Garona
+EU-H-Garona
+EU-A-Garrosh
+EU-H-Garrosh
+EU-A-Genjuros
+EU-H-Genjuros
+EU-A-Ghostlands
+EU-H-Ghostlands
+EU-A-Gilneas
+EU-H-Gilneas
+EU-A-Goldrinn
+EU-H-Goldrinn
+EU-A-Gordunni
+EU-H-Gordunni
+EU-A-Gorgonnash
+EU-H-Gorgonnash
+EU-A-Greymane
+EU-H-Greymane
+EU-A-Grim Batol
+EU-H-Grim Batol
+EU-A-Grom
+EU-H-Grom
+EU-A-Gul'dan
+EU-H-Gul'dan
+EU-A-Hakkar
+EU-H-Hakkar
+EU-A-Haomarush
+EU-H-Haomarush
+EU-A-Hellfire
+EU-H-Hellfire
+EU-A-Hellscream
+EU-H-Hellscream
+EU-A-Howling Fjord
+EU-H-Howling Fjord
+EU-A-Hyjal
+EU-H-Hyjal
+EU-A-Illidan
+EU-H-Illidan
+EU-A-Jaedenar
+EU-H-Jaedenar
+EU-A-Kael'thas
+EU-H-Kael'thas
+EU-A-Karazhan
+EU-H-Karazhan
+EU-A-Kargath
+EU-H-Kargath
+EU-A-Kazzak
+EU-H-Kazzak
+EU-A-Kel'Thuzad
+EU-H-Kel'Thuzad
+EU-A-Khadgar
+EU-H-Khadgar
+EU-A-Khaz Modan
+EU-H-Khaz Modan
+EU-A-Khaz'goroth
+EU-H-Khaz'goroth
+EU-A-Kil'jaeden
+EU-H-Kil'jaeden
+EU-A-Kilrogg
+EU-H-Kilrogg
+EU-A-Kirin Tor
+EU-H-Kirin Tor
+EU-A-Kor'gall
+EU-H-Kor'gall
+EU-A-Krag'jin
+EU-H-Krag'jin
+EU-A-Krasus
+EU-H-Krasus
+EU-A-Kul Tiras
+EU-H-Kul Tiras
+EU-A-Kult der Verdammten
+EU-H-Kult der Verdammten
+EU-A-La Croisade écarlate
+EU-H-La Croisade écarlate
+EU-A-Laughing Skull
+EU-H-Laughing Skull
+EU-A-Les Clairvoyants
+EU-H-Les Clairvoyants
+EU-A-Les Sentinelles
+EU-H-Les Sentinelles
+EU-A-Lich King
+EU-H-Lich King
+EU-A-Lightbringer
+EU-H-Lightbringer
+EU-A-Lightning's Blade
+EU-H-Lightning's Blade
+EU-A-Lordaeron
+EU-H-Lordaeron
+EU-A-Los Errantes
+EU-H-Los Errantes
+EU-A-Lothar
+EU-H-Lothar
+EU-A-Madmortem
+EU-H-Madmortem
+EU-A-Magtheridon
+EU-H-Magtheridon
+EU-A-Mal'Ganis
+EU-H-Mal'Ganis
+EU-A-Malfurion
+EU-H-Malfurion
+EU-A-Malorne
+EU-H-Malorne
+EU-A-Malygos
+EU-H-Malygos
+EU-A-Mannoroth
+EU-H-Mannoroth
+EU-A-Marécage de Zangar
+EU-H-Marécage de Zangar
+EU-A-Mazrigos
+EU-H-Mazrigos
+EU-A-Medivh
+EU-H-Medivh
+EU-A-Minahonda
+EU-H-Minahonda
+EU-A-Moonglade
+EU-H-Moonglade
+EU-A-Mug'thol
+EU-H-Mug'thol
+EU-A-Nagrand
+EU-H-Nagrand
+EU-A-Nathrezim
+EU-H-Nathrezim
+EU-A-Naxxramas
+EU-H-Naxxramas
+EU-A-Nazjatar
+EU-H-Nazjatar
+EU-A-Nefarian
+EU-H-Nefarian
+EU-A-Nemesis
+EU-H-Nemesis
+EU-A-Neptulon
+EU-H-Neptulon
+EU-A-Ner'zhul
+EU-H-Ner'zhul
+EU-A-Nera'thor
+EU-H-Nera'thor
+EU-A-Nethersturm
+EU-H-Nethersturm
+EU-A-Nordrassil
+EU-H-Nordrassil
+EU-A-Norgannon
+EU-H-Norgannon
+EU-A-Nozdormu
+EU-H-Nozdormu
+EU-A-Onyxia
+EU-H-Onyxia
+EU-A-Outland
+EU-H-Outland
+EU-A-Perenolde
+EU-H-Perenolde
+EU-A-Proudmoore
+EU-H-Proudmoore
+EU-A-Quel'Thalas
+EU-H-Quel'Thalas
+EU-A-Ragnaros
+EU-H-Ragnaros
+EU-A-Rajaxx
+EU-H-Rajaxx
+EU-A-Rashgarroth
+EU-H-Rashgarroth
+EU-A-Ravencrest
+EU-H-Ravencrest
+EU-A-Ravenholdt
+EU-H-Ravenholdt
+EU-A-Razuvious
+EU-H-Razuvious
+EU-A-Rexxar
+EU-H-Rexxar
+EU-A-Runetotem
+EU-H-Runetotem
+EU-A-Sanguino
+EU-H-Sanguino
+EU-A-Sargeras
+EU-H-Sargeras
+EU-A-Saurfang
+EU-H-Saurfang
+EU-A-Scarshield Legion
+EU-H-Scarshield Legion
+EU-A-Sen'jin
+EU-H-Sen'jin
+EU-A-Shadowsong
+EU-H-Shadowsong
+EU-A-Shattered Halls
+EU-H-Shattered Halls
+EU-A-Shattered Hand
+EU-H-Shattered Hand
+EU-A-Shattrath
+EU-H-Shattrath
+EU-A-Shen'dralar
+EU-H-Shen'dralar
+EU-A-Silvermoon
+EU-H-Silvermoon
+EU-A-Sinstralis
+EU-H-Sinstralis
+EU-A-Skullcrusher
+EU-H-Skullcrusher
+EU-A-Soulflayer
+EU-H-Soulflayer
+EU-A-Spinebreaker
+EU-H-Spinebreaker
+EU-A-Sporeggar
+EU-H-Sporeggar
+EU-A-Steamwheedle Cartel
+EU-H-Steamwheedle Cartel
+EU-A-Stormrage
+EU-H-Stormrage
+EU-A-Stormreaver
+EU-H-Stormreaver
+EU-A-Stormscale
+EU-H-Stormscale
+EU-A-Sunstrider
+EU-H-Sunstrider
+EU-A-Suramar
+EU-H-Suramar
+EU-A-Sylvanas
+EU-H-Sylvanas
+EU-A-Taerar
+EU-H-Taerar
+EU-A-Talnivarr
+EU-H-Talnivarr
+EU-A-Tarren Mill
+EU-H-Tarren Mill
+EU-A-Teldrassil
+EU-H-Teldrassil
+EU-A-Temple noir
+EU-H-Temple noir
+EU-A-Terenas
+EU-H-Terenas
+EU-A-Terokkar
+EU-H-Terokkar
+EU-A-Terrordar
+EU-H-Terrordar
+EU-A-The Maelstrom
+EU-H-The Maelstrom
+EU-A-The Sha'tar
+EU-H-The Sha'tar
+EU-A-The Venture Co
+EU-H-The Venture Co
+EU-A-Theradras
+EU-H-Theradras
+EU-A-Thermaplugg
+EU-H-Thermaplugg
+EU-A-Thrall
+EU-H-Thrall
+EU-A-Throk'Feroth
+EU-H-Throk'Feroth
+EU-A-Thunderhorn
+EU-H-Thunderhorn
+EU-A-Tichondrius
+EU-H-Tichondrius
+EU-A-Tirion
+EU-H-Tirion
+EU-A-Todeswache
+EU-H-Todeswache
+EU-A-Trollbane
+EU-H-Trollbane
+EU-A-Turalyon
+EU-H-Turalyon
+EU-A-Twilight's Hammer
+EU-H-Twilight's Hammer
+EU-A-Twisting Nether
+EU-H-Twisting Nether
+EU-A-Tyrande
+EU-H-Tyrande
+EU-A-Uldaman
+EU-H-Uldaman
+EU-A-Ulduar
+EU-H-Ulduar
+EU-A-Uldum
+EU-H-Uldum
+EU-A-Un'Goro
+EU-H-Un'Goro
+EU-A-Varimathras
+EU-H-Varimathras
+EU-A-Vashj
+EU-H-Vashj
+EU-A-Vek'lor
+EU-H-Vek'lor
+EU-A-Vek'nilash
+EU-H-Vek'nilash
+EU-A-Vol'jin
+EU-H-Vol'jin
+EU-A-Well of Eternity
+EU-H-Well of Eternity
+EU-A-Wildhammer
+EU-H-Wildhammer
+EU-A-Wrathbringer
+EU-H-Wrathbringer
+EU-A-Xavius
+EU-H-Xavius
+EU-A-Ysera
+EU-H-Ysera
+EU-A-Ysondre
+EU-H-Ysondre
+EU-A-Zenedar
+EU-H-Zenedar
+EU-A-Zirkel des Cenarius
+EU-H-Zirkel des Cenarius
+EU-A-Zul'jin
+EU-H-Zul'jin
+EU-A-Zuluhed
+EU-H-Zuluhed

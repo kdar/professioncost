@@ -1,0 +1,1 @@
+Download the XML file for your realm to this directory from [https://theunderminejournal.com/user.php](https://theunderminejournal.com/user.php)
